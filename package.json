@@ -12,6 +12,7 @@
     "gh-pages": "npm run build && npm run deploy"
   },
   "dependencies": {
+    "antd6": "npm:antd@6.0.0-alpha.5",
     "@ant-design/cssinjs": "^1.18.0",
     "@ant-design/icons": "^5.2.6",
     "antd": "^5.12.1",

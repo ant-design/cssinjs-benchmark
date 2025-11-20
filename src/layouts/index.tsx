@@ -8,6 +8,7 @@ export default function Layout() {
         <div>Choose one to test</div>
         <Link to="/cssinjs">cssinjs</Link>
         <Link to="/css-var">css-var</Link>
+        <Link to="/zero-runtime">zero-runtime</Link>
       </div>
       <div style={{ margin: 24 }}>
         <Outlet />
